@@ -14,4 +14,14 @@ h2 {
 	margin-bottom: 10px;
 }
 
+td, th {
+	border: 1px solid black;
+	padding: 4px;
+	text-align: center;
+}
+
+
+table {
+	border-collapse: collapse;
+}
 
